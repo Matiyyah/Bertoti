@@ -39,3 +39,19 @@ and Change and Scale and Growth
 
 entedimento : o texto diz em como a engenharia esta alem de escrever o codigo, esta em como sempre estamos agregando a quele codigos coisas novas ou resolvendo problema.
 então estamos sempre atualizando o mesmo codigo.
+
+3. Listar e explicar 3 exemplos de tradeoffs (falamos alguns nas aulas... você pode usá-los ou falar dos seus próprios)
+trade-oof é o momento em que voce tem que escolher opçoes conflitantes com recursos limitados 
+o momento em que voce tem apenas 100 reais e tem que escolher entre ir em um restaurante ou comprar um livro. pode ser considerado trade-off.
+
+exemplo1: simplicidade vs complexidade 
+ao desenvolver um aplicativo ou software seja para pc ou celular qualquer plataforma voce deve  escolher entre ele ter um sistema simples ou complexo, tendo um sistema de interface simples, pode ser rapido e facil de se utilizar.
+mas tendo uma interface complexa voce tem mais recurso e opções avançadas que podem abrir mais possibilidade, mas alguns usuarios pode se sentir perdidos ou dificultar no uso.
+
+exemplo2: android vs ios
+a duvida da maioria dos usuarios que precisam adquirir um celular novo seria qual modelo pegar, um celular com sistema operacional android ou ios.
+a maioria opita pelo ios por uma gama de lendas estabelecidas pelo mercado que vem de muito tempo atras, "android trava muito, "a tela dos modelos apple são melhores" etc...
+
+exemplo3:  windows vc linux 
+algumas pessoas que trbalham na area ficam em duvida em qual sistema operacional usar, um windows, linux ou ate mesmo macOS.
+
